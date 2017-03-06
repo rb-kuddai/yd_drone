@@ -47,8 +47,11 @@
 
 ### Ссылки 
 [1 End-to-end people detection in crowded scenes](https://arxiv.org/pdf/1506.04878.pdf) 
+
 [2 Функция потерь в обучении](http://cv-blog.ru/?p=72) 
+
 [3 Traffic signs classification with Deep Learning](https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.i7nii4t8k) 
+
 [4 Semi-Supervised Learning with Ladder Networks](https://arxiv.org/pdf/1507.02672.pdf) 
 
 # Задача 2 
